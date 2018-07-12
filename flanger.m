@@ -8,7 +8,7 @@ clear all
 %lets generates a 1Hz sin that oscilates between 0-15 ms of
 %amplitude -> oscilating delay
 t=1:length(sample);
-max_delay = 0.015; %-> 'depth' of the flanger, can vary between 3 and 15 ms
+max_delay = 0.003; %-> 'depth' of the flanger, can vary between 3 and 15 ms
 rate = 2;%-> how fast the delay oscilates, gives the rate of the flanger
 osc_delay = (max_delay/2).*sin(2*pi.*t.*(rate/fs))+(max_delay/2);
 
