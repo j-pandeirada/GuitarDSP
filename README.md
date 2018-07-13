@@ -10,8 +10,8 @@ Some of the effects that im interested in:
 - [x] Echo
 - [x] Chorus
 - [x] Reverb
-- [ ] Overdrive
-- [ ] Fuzz
-- [ ] Tremolo
+- [x] Overdrive
+- [x] Fuzz
+- [x] Tremolo
 - [ ] Wah-Wah
 - [ ] Phaser
