@@ -13,5 +13,5 @@ Some of the effects that im interested in:
 - [x] Overdrive
 - [x] Fuzz
 - [x] Tremolo
-- [ ] Wah-Wah
-- [ ] Phaser
+- [x] Wah-Wah
+- [x] Phaser
